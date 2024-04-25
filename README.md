@@ -5,7 +5,6 @@ HTML (*Hyper Markup Language*) adalah bahasa markup standar yang digunakan untuk
 HTML berfungsi sebagai dasar mengintegritaskan elemen-elemen seperti teks, gambar, video, formulir, dan banyak lagi ke dalam halaman web, sehingga pengguna dapat mengakses dan berinteraksi dengan konten tersebut melalui browser web.
 
 ### ***a. Heading***
-
 Heading HTML ditentukan dengan tag h1-h6. h1 menandakan judul yang paling penting h6 menandakan judul yang paling tidak penting. Penggunaan tag h1 hingga h6 membantu pembaca memahami struktur dan pentingnya konten dalam web. Semakin besar nomor heading, maka semakin kecil juga ukuran hurufnya. Misalnya h1 biasanya digunakan untuk judul halaman utama, sedangkan h2, h3, dan seterusnya digunakan untuk judul sub-bagian yang semakin spesifik. dengan menggunakan heading HTML, pengembang dapat membuat halaman web yang lebih terstruktur dan mudah dibaca.
 
 ## 2. CSS
