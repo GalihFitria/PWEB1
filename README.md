@@ -6,6 +6,8 @@ HTML berfungsi sebagai dasar mengintegritaskan elemen-elemen seperti teks, gamba
 
 ### ***a. Heading***
 Heading HTML ditentukan dengan tag h1-h6. h1 menandakan judul yang paling penting h6 menandakan judul yang paling tidak penting. Penggunaan tag h1 hingga h6 membantu pembaca memahami struktur dan pentingnya konten dalam web. Semakin besar nomor heading, maka semakin kecil juga ukuran hurufnya. Misalnya h1 biasanya digunakan untuk judul halaman utama, sedangkan h2, h3, dan seterusnya digunakan untuk judul sub-bagian yang semakin spesifik. dengan menggunakan heading HTML, pengembang dapat membuat halaman web yang lebih terstruktur dan mudah dibaca.
+![Screenshot 2024-04-26 065700](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/115a3c41-17f0-4f58-b5fe-c53ec5041f37)
+
 
 ## 2. CSS
 
