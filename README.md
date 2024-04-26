@@ -94,6 +94,18 @@ Properti text-shadowmenambahkan bayangan ke teks.
 Font web adalah font yang dipasang secara universal di semua browser dan perangkat. Namun, tidak ada font yang 100% aman untuk web. Selalu ada kemungkinan font tidak ditemukan atau tidak terpasang dengan benar. Oleh karena itu, sangat penting untuk selalu menggunakan font fallback. Ini berarti Anda harus menambahkan daftar "font cadangan" serupa di properti font-family . Jika font pertama tidak berfungsi, browser akan mencoba font berikutnya, font berikutnya, dan seterusnya
 ![Screenshot 2024-04-26 103847](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/c045061d-4f35-4f2a-8447-81c37cae6c5f)
 
+### ***c. Hoverable Table***
+Gunakan :hoverpemilih pada <tr> untuk menyorot baris tabel dengan mengarahkan mouse.
+![Screenshot 2024-04-26 105042](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/9350aab4-fcd9-451f-a282-3e641f22097b)
+
+### ***d. Overflow***
+Properti CSS overflowmengontrol apa yang terjadi pada konten yang terlalu besar untuk dimasukkan ke dalam suatu area.
+![Screenshot 2024-04-26 105558](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/8654c189-b105-4fd0-a65b-1370d69b4401)
+![Screenshot 2024-04-26 105614](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/53d17851-6ca1-46cc-a178-1f9a2e59a7cb)
+![Screenshot 2024-04-26 105641](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/052976d9-b950-494a-832f-c9192ed40eb2)
+![Screenshot 2024-04-26 105700](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/c6384331-ac7b-42fd-a670-97d06dc358bf)
+![Screenshot 2024-04-26 105641](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/946803d7-6969-42b8-8e40-b6f839bbe4f1)
+![Screenshot 2024-04-26 105801](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/8354b87f-8d33-43c4-b199-5a7ee518636f)
 
 ## 3. JavaScript
 
