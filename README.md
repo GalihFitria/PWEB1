@@ -1,5 +1,5 @@
 # Praktikum Pemrograman Web 1
-## 1. HTML
+## 1.) HTML
 
 HTML (*Hyper Markup Language*) adalah bahasa markup standar yang digunakan untuk membuat halaman web. HTML menggunakan serangkaian tag atau kode khusus yang disisipkan ke dalam teks untuk memberi petunjuk kepada browser web tentang cara menampilkan konten. Dengan menggunakan tag seperti <p> untuk paragraf <img> untuk gambar dan sebagainya. pengembang dapat membuat halaman web dengan tata letak yang terstruktur dan konten yang bervariasi.
 HTML berfungsi sebagai dasar mengintegritaskan elemen-elemen seperti teks, gambar, video, formulir, dan banyak lagi ke dalam halaman web, sehingga pengguna dapat mengakses dan berinteraksi dengan konten tersebut melalui browser web.
@@ -16,7 +16,21 @@ Elemen HTML p digunakan untuk mendefinisikan paragraf dalam sebuah halaman web. 
 Style HTML digunakan untuk menambahkan gaya ke suatu elemen, seperti warna, font, ukuran dan lainnya.
 ![Screenshot 2024-04-26 075257](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/ccc95272-32d1-4d9a-858a-3db79c2234f2)
 
-## 2. CSS
+### ***d. Text Formatting***
+Text Formatting dirancang untuk menampilkan jenis teks khusus:
+
+<b>- Teks tebal
+<strong>- Teks penting
+<i>- Teks miring
+<em>- Teks yang ditekankan
+<mark>- Teks yang ditandai
+<small>- Teks lebih kecil
+<del>- Teks yang dihapus
+<ins>- Teks yang disisipkan
+<sub>- Teks subskrip
+<sup>- Teks superskrip
+
+## 2.) CSS
 
 CSS (*Cascanding Style Sheets*) adalah bahasa yang biasa gunakan untuk menata gaya dokumen HTML(aturan gaya pada elemen-elemen HTML). aturan CSS dapat ditulis di dalam file terpisah atau langsung di dalam dokumen HTML dan akan diterapkan secara tersusun sesuai dengan struktur dokumen, yang memungkinkan pengembang untuk membuat aturan gaya yang konsisten dan mudah dikelola untuk seluruh situs web.
 
