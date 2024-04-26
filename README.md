@@ -82,6 +82,8 @@ Nilai-nilai berikut diperbolehkan:
 * hidden- Mendefinisikan perbatasan tersembunyi
 ![Screenshot 2024-04-26 100345](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/82d244bd-b33e-49ab-be18-335237b44789)
 
+### ***b. Box Model***
+
 
 
 ## 3. JavaScript
