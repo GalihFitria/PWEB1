@@ -12,9 +12,9 @@ Heading HTML ditentukan dengan tag h1-h6. h1 menandakan judul yang paling pentin
 Elemen HTML p digunakan untuk mendefinisikan paragraf dalam sebuah halaman web. Setiap paragraf yang ditandai dengan p akan dimulai pada baris baru, dan browser akan menambahkan spasi (margin) sebelum dan sesudah paragraf secara otomatis. ini memastikan tata letak yang jelas dan teratur dalam tampilan halaman web.
 ![Screenshot 2024-04-26 073522](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/f711ce07-542a-44ee-87bd-68a3fa7aded3)
 
-### ***c.
-
-
+### ***c. Style Font***
+Style HTML digunakan untuk menambahkan gaya ke suatu elemen, seperti warna, font, ukuran dan lainnya.
+![Screenshot 2024-04-26 075257](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/ccc95272-32d1-4d9a-858a-3db79c2234f2)
 
 ## 2. CSS
 
