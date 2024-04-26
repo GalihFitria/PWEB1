@@ -113,3 +113,8 @@ JavaScript adalah bahasa pemrograman yang digunakan untuk membuat halaman web in
 * Function JavaScript dijalankan ketika "sesuatu" memanggilnya (memanggilnya).
 ![Screenshot 2024-04-26 110910](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/4d0ca77d-d700-4a62-aaa7-045aa2835da6)
 
+### ***b. Alert***
+Metode 'alert()' digunakan untuk menampilkan sebuah pesan dalam kotak peringatan yang memiliki tombol OK. ini sangatlah berguna ketika kita perlu menyampaikan informasi penting kepada pengguna. Namun, perlu diingat bahwa pengguna akan dialihkan dari apa yang sedang mereka lakukan saat ini dan dipaksa untuk membaca pesan tersebut. Oleh karena itu, sebaiknya penggunaan metode ini dibatasi, agar tidak mengganggu pengalaman pengguna dengan menghalangi akses ke bagian lain dari halaman hingga kotak peringatan ditutup kembali.
+![Screenshot 2024-04-26 112352](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/3a7b8d0d-5f05-463d-ac4d-731504651910)
+
+
