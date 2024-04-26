@@ -42,6 +42,15 @@ Teks dalam < address > elemen biasanya ditampilkan dalam huruf miring, dan brows
 * Tag HTML <cite>mendefinisikan judul suatu karya kreatif (misalnya buku, puisi, lagu, film, lukisan, patung, dll.).
 * Tag HTML <bdo>digunakan untuk mengganti arah teks saat ini
   ![Screenshot 2024-04-26 085337](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/88ec7ac9-24bf-474d-8820-565931e5f132)
+  
+### ***f. Links***
+Tautan HTML adalah hyperlink. dengan menggunakan hyperlink dapat mengeklik tautan dan melompat ke dokumen lain dan saat menggerakkan mouse ke atas link, panah mouse akan berubah menjadi tangan kecil. Tautan (link) tidak harus berupa teks. Tautan dapat berupa gambar atau elemen HTML lainnya.
+![Screenshot 2024-04-26 091102](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/f8c10972-0fd9-4b8a-958e-dfa366c42845)
+
+### ***g. Tabel***
+dengan tabel HTML, pengembang web dapat dengan mudah mengatur data ke dalam baris dan kolom yang terstruktur serta memungkinkan penyajian informasi yang jelas.
+![Screenshot 2024-04-26 093209](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/73656c7d-1f40-4268-9beb-bafae1cab842)
+
 
 
 ## 2.) CSS
