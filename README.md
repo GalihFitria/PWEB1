@@ -105,6 +105,8 @@ Properti CSS overflowmengontrol apa yang terjadi pada konten yang terlalu besar 
 ![Screenshot 2024-04-26 105641](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/946803d7-6969-42b8-8e40-b6f839bbe4f1)
 ![Screenshot 2024-04-26 105801](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/8354b87f-8d33-43c4-b199-5a7ee518636f)
 
+
+
 ## 3. JavaScript
 JavaScript adalah bahasa pemrograman yang digunakan untuk membuat halaman web interaktif dan dinamis. Berbeda dengan HTML yang digunakan untuk menentukan struktur dan konten halaman web serta CSS yang digunakan untuk mengatur tampilan atau gayanya. JavaScript memberikan kemampuan tambahan bagi pengembang web untuk menambahkan fungsionalitas yang kompleks ke dalam halaman web.
 
