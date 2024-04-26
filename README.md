@@ -49,6 +49,7 @@ Tautan HTML adalah hyperlink. dengan menggunakan hyperlink dapat mengeklik tauta
 
 ### ***g. Tabel***
 dengan tabel HTML, web developers dapat dengan mudah mengatur data ke dalam baris dan kolom yang terstruktur serta memungkinkan penyajian informasi yang jelas.
+
 ![Screenshot 2024-04-26 093209](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/73656c7d-1f40-4268-9beb-bafae1cab842)
 
 ### ***h. Lists***
