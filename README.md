@@ -1,7 +1,7 @@
 # Praktikum Pemrograman Web 1
 ## 1.) HTML
 
-HTML (*Hyper Markup Language*) adalah bahasa markup standar yang digunakan untuk membuat halaman web. HTML menggunakan serangkaian tag atau kode khusus yang disisipkan ke dalam teks untuk memberi petunjuk kepada browser web tentang cara menampilkan konten. Dengan menggunakan tag seperti <p> untuk paragraf <img> untuk gambar dan sebagainya. pengembang dapat membuat halaman web dengan tata letak yang terstruktur dan konten yang bervariasi.
+HTML (*Hyper Markup Language*) adalah bahasa markup standar yang digunakan untuk membuat halaman web. HTML menggunakan serangkaian tag atau kode khusus yang disisipkan ke dalam teks untuk memberi petunjuk kepada browser web tentang cara menampilkan konten. Dengan menggunakan tag seperti < p > untuk paragraf < img > untuk gambar dan sebagainya. pengembang dapat membuat halaman web dengan tata letak yang terstruktur dan konten yang bervariasi.
 HTML berfungsi sebagai dasar mengintegritaskan elemen-elemen seperti teks, gambar, video, formulir, dan banyak lagi ke dalam halaman web, sehingga pengguna dapat mengakses dan berinteraksi dengan konten tersebut melalui browser web.
 
 ### ***a. Heading***
@@ -30,6 +30,19 @@ Text Formatting dirancang untuk menampilkan jenis teks khusus:
 * < sub >- Teks subskrip
 * < sup >- Teks superskrip
 ![Screenshot 2024-04-26 083852](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/856db854-192d-4ee9-9a9a-11ebdc470991)
+
+### ***e. Quitation***
+pada Quitation banyak pembahasan elemen HTML < blockquate >, < q >, < abbr >, < address >, < cite > dan < bdo >
+* Elemen HTML < blockquote > mendefinisikan bagian yang dikutip dari sumber lain.
+* tag HTML < q > mendefinisikan kutipan singkat.
+* Tag HTML < abbr >mendefinisikan singkatan atau akronim, seperti "HTML", "CSS", "Mr.", "Dr.", "ASAP", "ATM".
+* Tag HTML < address > mendefinisikan informasi kontak penulis/pemilik dokumen atau artikel.
+Informasi kontak dapat berupa alamat email, URL, alamat fisik, nomor telepon, alamat media sosial, dll.
+Teks dalam < address > elemen biasanya ditampilkan dalam huruf miring, dan browser akan selalu menambahkan jeda baris sebelum dan sesudah <address>elemen.
+* Tag HTML <cite>mendefinisikan judul suatu karya kreatif (misalnya buku, puisi, lagu, film, lukisan, patung, dll.).
+* Tag HTML <bdo>digunakan untuk mengganti arah teks saat ini
+  ![Screenshot 2024-04-26 085337](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/88ec7ac9-24bf-474d-8820-565931e5f132)
+
 
 ## 2.) CSS
 
