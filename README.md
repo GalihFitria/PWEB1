@@ -8,6 +8,11 @@ HTML berfungsi sebagai dasar mengintegritaskan elemen-elemen seperti teks, gamba
 Heading HTML ditentukan dengan tag h1-h6. h1 menandakan judul yang paling penting h6 menandakan judul yang paling tidak penting. Penggunaan tag h1 hingga h6 membantu pembaca memahami struktur dan pentingnya konten dalam web. Semakin besar nomor heading, maka semakin kecil juga ukuran hurufnya. Misalnya h1 biasanya digunakan untuk judul halaman utama, sedangkan h2, h3, dan seterusnya digunakan untuk judul sub-bagian yang semakin spesifik. dengan menggunakan heading HTML, pengembang dapat membuat halaman web yang lebih terstruktur dan mudah dibaca.
 ![Screenshot 2024-04-26 065700](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/115a3c41-17f0-4f58-b5fe-c53ec5041f37)
 
+### ***b. Paragraphs***
+Elemen HTML <p> digunakan untuk mendefinisikan paragraf dalam sebuah halaman web. Setiap paragraf yang ditandai dengan <p> akan dimulai pada baris baru, dan browser akan menambahkan spasi (margin) sebelum dan sesudah paragraf secara otomatis. ini memastikan tata letak yang jelas dan teratur dalam tampilan halaman web.
+![Screenshot 2024-04-26 071646](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/91d948ca-3bea-4275-b58d-60f2eec31938)
+
+
 
 ## 2. CSS
 
