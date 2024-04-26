@@ -9,8 +9,10 @@ Heading HTML ditentukan dengan tag h1-h6. h1 menandakan judul yang paling pentin
 ![Screenshot 2024-04-26 065700](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/115a3c41-17f0-4f58-b5fe-c53ec5041f37)
 
 ### ***b. Paragraphs***
-Elemen HTML <p> digunakan untuk mendefinisikan paragraf dalam sebuah halaman web. Setiap paragraf yang ditandai dengan <p> akan dimulai pada baris baru, dan browser akan menambahkan spasi (margin) sebelum dan sesudah paragraf secara otomatis. ini memastikan tata letak yang jelas dan teratur dalam tampilan halaman web.
-![Screenshot 2024-04-26 071646](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/91d948ca-3bea-4275-b58d-60f2eec31938)
+Elemen HTML p digunakan untuk mendefinisikan paragraf dalam sebuah halaman web. Setiap paragraf yang ditandai dengan p akan dimulai pada baris baru, dan browser akan menambahkan spasi (margin) sebelum dan sesudah paragraf secara otomatis. ini memastikan tata letak yang jelas dan teratur dalam tampilan halaman web.
+
+
+### ***c.
 
 
 
