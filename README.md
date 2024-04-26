@@ -51,9 +51,14 @@ Tautan HTML adalah hyperlink. dengan menggunakan hyperlink dapat mengeklik tauta
 dengan tabel HTML, web developers dapat dengan mudah mengatur data ke dalam baris dan kolom yang terstruktur serta memungkinkan penyajian informasi yang jelas.
 ![Screenshot 2024-04-26 093209](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/73656c7d-1f40-4268-9beb-bafae1cab842)
 
-### ***h. List***
-List HTML memungkinkan web developers mengelompokkan sekumpulan item terkait dalam daftar.
+### ***h. Lists***
+Lists HTML memungkinkan web developers mengelompokkan sekumpulan item terkait dalam daftar.
 ![Screenshot 2024-04-26 093935](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/2d0a5c13-2c56-4724-b601-ddc861d7345f)
+
+### ***i. Block and Inline
+Setiap elemen HTML memiliki nilai tampilan default, bergantung pada jenis elemennya. Dua nilai tampilan yang paling umum adalah Block and Inline.
+![Screenshot 2024-04-26 095042](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/69f96b40-de2a-4e94-940c-2fbd52732296)
+
 
 
 ## 2.) CSS
