@@ -19,16 +19,16 @@ Style HTML digunakan untuk menambahkan gaya ke suatu elemen, seperti warna, font
 ### ***d. Text Formatting***
 Text Formatting dirancang untuk menampilkan jenis teks khusus:
 
-< b >- Teks tebal
-< strong >- Teks penting
-< i >- Teks miring
-< em >- Teks yang ditekankan
-< mark >- Teks yang ditandai
-< small >- Teks lebih kecil
-< del >- Teks yang dihapus
-< ins >- Teks yang disisipkan
-< sub >- Teks subskrip
-< sup >- Teks superskrip
+*< b >- Teks tebal
+*< strong >- Teks penting
+*< i >- Teks miring
+*< em >- Teks yang ditekankan
+*< mark >- Teks yang ditandai
+*< small >- Teks lebih kecil
+*< del >- Teks yang dihapus
+*< ins >- Teks yang disisipkan
+*< sub >- Teks subskrip
+*< sup >- Teks superskrip
 
 ## 2.) CSS
 
