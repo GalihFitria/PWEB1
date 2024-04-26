@@ -109,6 +109,17 @@ Properti CSS overflowmengontrol apa yang terjadi pada konten yang terlalu besar 
 
 ## 3. JavaScript
 JavaScript adalah bahasa pemrograman yang digunakan untuk membuat halaman web interaktif dan dinamis. Berbeda dengan HTML yang digunakan untuk menentukan struktur dan konten halaman web serta CSS yang digunakan untuk mengatur tampilan atau gayanya. JavaScript memberikan kemampuan tambahan bagi pengembang web untuk menambahkan fungsionalitas yang kompleks ke dalam halaman web.
+Berikut beberapa properti yang biasa digunakan didalam JavaScript :
+* innerHtml = mengakses tag html
+* innerText = mengubah text dalam tag
+* textContent = mengubah text dalam tag html
+* document.getElementById = untuk id
+* document.getElementsByTagName; = untuk tag
+* document.getElementsByClassName; = untuk kelas
+* document.querySelector('#title'); = untuk id
+* document.querySelector('title'); = untuk kelas
+* document.querySelector('div'); = untuk id
+* console.log("Hello World"); = menampilkan text
 
 ### ***a. Function***
 * Function JavaScript adalah blok kode yang dirancang untuk melakukan tugas tertentu.
