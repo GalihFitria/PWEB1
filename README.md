@@ -83,7 +83,12 @@ Nilai-nilai berikut diperbolehkan:
 ![Screenshot 2024-04-26 100345](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/82d244bd-b33e-49ab-be18-335237b44789)
 
 ### ***b. Box Model***
+Dalam CSS, istilah *"Box Model"* digunakan ketika berbicara tentang desain dan tata letak. Box Model CSS pada dasarnya adalah sebuah kotak yang membungkus setiap elemen HTML. Terdiri dari: content, padding, border dan margin.
+![Screenshot 2024-04-26 101614](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/8040bd9b-57ba-402d-af7c-ce0125cddab2)
 
+### ***c. Text Shadow***
+Properti text-shadowmenambahkan bayangan ke teks.
+![Screenshot 2024-04-26 103012](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/4809b068-f55f-4226-b37b-139f35eb6654)
 
 
 ## 3. JavaScript
