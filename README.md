@@ -117,4 +117,9 @@ JavaScript adalah bahasa pemrograman yang digunakan untuk membuat halaman web in
 Metode 'alert()' digunakan untuk menampilkan sebuah pesan dalam kotak peringatan yang memiliki tombol OK. ini sangatlah berguna ketika kita perlu menyampaikan informasi penting kepada pengguna. Namun, perlu diingat bahwa pengguna akan dialihkan dari apa yang sedang mereka lakukan saat ini dan dipaksa untuk membaca pesan tersebut. Oleh karena itu, sebaiknya penggunaan metode ini dibatasi, agar tidak mengganggu pengalaman pengguna dengan menghalangi akses ke bagian lain dari halaman hingga kotak peringatan ditutup kembali.
 ![Screenshot 2024-04-26 112352](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/3a7b8d0d-5f05-463d-ac4d-731504651910)
 
+### ***c. Arithmetic***
+Arithmetic dalam JavaScript merujuk pada penggunaan operasi matematika untuk melakukan perhitungan pada nilai-nilai numerik. Operasi arithmetic yang paling umum digunakan meliputi pertambahan (+), Pengurangan (-), perkalian (*), dan pembagian (/). Selain itu, JavaScript juga mendukung operasi arithmetic lainnya seperti modulus (%) untuk mendapatkan sisa dari pembagian, serta operator penambahan (++) dan pengurangan (--) untuk menambahkan atau mengurangkan satu dari nilai yang ada.
+![Screenshot 2024-04-26 113332](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/67b6d22b-74c1-4de1-9619-208e14fd4280)
+
+
 
