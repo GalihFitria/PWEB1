@@ -90,6 +90,10 @@ Dalam CSS, istilah *"Box Model"* digunakan ketika berbicara tentang desain dan t
 Properti text-shadowmenambahkan bayangan ke teks.
 ![Screenshot 2024-04-26 103012](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/4809b068-f55f-4226-b37b-139f35eb6654)
 
+### ***d. Font Web***
+Font web adalah font yang dipasang secara universal di semua browser dan perangkat. Namun, tidak ada font yang 100% aman untuk web. Selalu ada kemungkinan font tidak ditemukan atau tidak terpasang dengan benar. Oleh karena itu, sangat penting untuk selalu menggunakan font fallback. Ini berarti Anda harus menambahkan daftar "font cadangan" serupa di properti font-family . Jika font pertama tidak berfungsi, browser akan mencoba font berikutnya, font berikutnya, dan seterusnya
+![Screenshot 2024-04-26 103847](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/c045061d-4f35-4f2a-8447-81c37cae6c5f)
+
 
 ## 3. JavaScript
 
