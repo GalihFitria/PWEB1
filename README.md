@@ -66,7 +66,23 @@ Setiap elemen HTML memiliki nilai tampilan default, bergantung pada jenis elemen
 
 CSS (*Cascanding Style Sheets*) adalah bahasa yang biasa gunakan untuk menata gaya dokumen HTML(aturan gaya pada elemen-elemen HTML). aturan CSS dapat ditulis di dalam file terpisah atau langsung di dalam dokumen HTML dan akan diterapkan secara tersusun sesuai dengan struktur dokumen, yang memungkinkan pengembang untuk membuat aturan gaya yang konsisten dan mudah dikelola untuk seluruh situs web.
 
-### ***a. Basic***
+### ***a. Borders***
+Properti border-stylemenentukan jenis batas yang akan ditampilkan.
+Nilai-nilai berikut diperbolehkan:
+
+* dotted- Mendefinisikan batas titik-titik
+* dashed- Mendefinisikan batas putus-putus
+* solid- Mendefinisikan batas yang solid
+* double- Mendefinisikan perbatasan ganda
+* groove- Mendefinisikan batas beralur 3D. Efeknya bergantung pada nilai warna batas
+* ridge- Mendefinisikan batas bergerigi 3D. Efeknya bergantung pada nilai warna batas
+* inset- Mendefinisikan batas sisipan 3D. Efeknya bergantung pada nilai warna batas
+* outset- Mendefinisikan batas awal 3D. Efeknya bergantung pada nilai warna batas
+* none- Tidak mendefinisikan batas
+* hidden- Mendefinisikan perbatasan tersembunyi
+![Screenshot 2024-04-26 100345](https://github.com/GalihFitria/praktikum-PWEB1/assets/165490209/82d244bd-b33e-49ab-be18-335237b44789)
+
+
 
 ## 3. JavaScript
 
